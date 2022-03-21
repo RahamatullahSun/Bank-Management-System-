@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="TempManForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEmployeeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControlCustomer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControlTransaction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
