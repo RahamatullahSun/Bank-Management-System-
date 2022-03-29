@@ -14,7 +14,6 @@ E:\C#\BankManagementSystem\BankManagementSystem.Entity\bin\Debug\net5.0\BankMana
 E:\C#\BankManagementSystem\BankManagementSystem.Entity\bin\Debug\net5.0\BankManagementSystem.Entity.dll
 E:\C#\BankManagementSystem\BankManagementSystem.Entity\bin\Debug\net5.0\ref\BankManagementSystem.Entity.dll
 E:\C#\BankManagementSystem\BankManagementSystem.Entity\bin\Debug\net5.0\BankManagementSystem.Entity.pdb
-E:\C#\BankManagementSystem\BankManagementSystem.Entity\obj\Debug\net5.0\BankManagementSystem.Entity.csprojAssemblyReference.cache
 E:\C#\BankManagementSystem\BankManagementSystem.Entity\obj\Debug\net5.0\BankManagementSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
 E:\C#\BankManagementSystem\BankManagementSystem.Entity\obj\Debug\net5.0\BankManagementSystem.Entity.AssemblyInfoInputs.cache
 E:\C#\BankManagementSystem\BankManagementSystem.Entity\obj\Debug\net5.0\BankManagementSystem.Entity.AssemblyInfo.cs

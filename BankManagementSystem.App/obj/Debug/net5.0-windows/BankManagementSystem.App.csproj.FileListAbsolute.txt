@@ -59,6 +59,7 @@ E:\C#\BankManagementSystem\BankManagementSystem.App\bin\Debug\net5.0-windows\Ban
 E:\C#\BankManagementSystem\BankManagementSystem.App\bin\Debug\net5.0-windows\BankManagementSystem.Data.pdb
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.csprojAssemblyReference.cache
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.Employee.resources
+E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.FormEmployeeInfo.resources
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.FormManager.resources
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.Properties.Resources.resources
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.TempManForm.resources
@@ -75,4 +76,3 @@ E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\Ban
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\ref\BankManagementSystem.App.dll
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.pdb
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.genruntimeconfig.cache
-E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.FormEmployeeInfo.resources
