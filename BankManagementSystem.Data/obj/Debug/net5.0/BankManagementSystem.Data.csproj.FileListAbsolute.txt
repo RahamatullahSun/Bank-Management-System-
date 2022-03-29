@@ -10,3 +10,15 @@ E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.D
 E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.dll
 E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\ref\BankManagementSystem.Data.dll
 E:\LECTURES\Current\OOP2(C#)\Project\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.pdb
+E:\C#\BankManagementSystem\BankManagementSystem.Data\bin\Debug\net5.0\BankManagementSystem.Data.deps.json
+E:\C#\BankManagementSystem\BankManagementSystem.Data\bin\Debug\net5.0\BankManagementSystem.Data.dll
+E:\C#\BankManagementSystem\BankManagementSystem.Data\bin\Debug\net5.0\ref\BankManagementSystem.Data.dll
+E:\C#\BankManagementSystem\BankManagementSystem.Data\bin\Debug\net5.0\BankManagementSystem.Data.pdb
+E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.csprojAssemblyReference.cache
+E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.AssemblyInfoInputs.cache
+E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.AssemblyInfo.cs
+E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.csproj.CoreCompileInputs.cache
+E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.dll
+E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\ref\BankManagementSystem.Data.dll
+E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.pdb
