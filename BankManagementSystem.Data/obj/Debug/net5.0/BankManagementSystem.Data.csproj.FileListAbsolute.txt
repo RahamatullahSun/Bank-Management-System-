@@ -21,3 +21,4 @@ E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManage
 E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.dll
 E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\ref\BankManagementSystem.Data.dll
 E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.pdb
+E:\C#\BankManagementSystem\BankManagementSystem.Data\obj\Debug\net5.0\BankManagementSystem.Data.csprojAssemblyReference.cache

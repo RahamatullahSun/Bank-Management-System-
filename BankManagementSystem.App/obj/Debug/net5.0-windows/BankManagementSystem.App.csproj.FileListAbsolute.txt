@@ -62,7 +62,6 @@ E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\Ban
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.FormEmployeeInfo.resources
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.FormManager.resources
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.Properties.Resources.resources
-E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.TempManForm.resources
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.UserControlCustomer.resources
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.userControlEmployee.resources
 E:\C#\BankManagementSystem\BankManagementSystem.App\obj\Debug\net5.0-windows\BankManagementSystem.App.UserControlTransaction.resources
