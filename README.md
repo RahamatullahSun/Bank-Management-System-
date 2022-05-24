@@ -1,2 +1,2 @@
 # BankManagementSystem
-An Windows based application for Bank Management using C# and .NET framework
+An Windows based CRUD application for Bank Management using C# and .NET framework with Entity Framework.
